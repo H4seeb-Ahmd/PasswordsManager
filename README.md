@@ -1,0 +1,2 @@
+# PasswordsManager
+encrypted passwords manager
